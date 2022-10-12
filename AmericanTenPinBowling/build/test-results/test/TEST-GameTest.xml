@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2022-10-12T21:16:41" hostname="CHERRY" time="0.053">
+  <properties/>
+  <testcase name="calculateTotalScore()" classname="GameTest" time="0.024"/>
+  <testcase name="testValidateInputInvalidOptionsZero()" classname="GameTest" time="0.001"/>
+  <testcase name="testValidateInputSuccessSpare()" classname="GameTest" time="0.003"/>
+  <testcase name="allStrikes9Miss()" classname="GameTest" time="0.001"/>
+  <testcase name="all5Spare()" classname="GameTest" time="0.001"/>
+  <testcase name="testValidateInputNoChars()" classname="GameTest" time="0.0"/>
+  <testcase name="testSpare()" classname="GameTest" time="0.0"/>
+  <testcase name="testFrameSpare()" classname="GameTest" time="0.001"/>
+  <testcase name="testValidateInputSuccessMiss()" classname="GameTest" time="0.001"/>
+  <testcase name="testValidateInputSuccess()" classname="GameTest" time="0.002"/>
+  <testcase name="testValidateInputInvalidAlpha()" classname="GameTest" time="0.001"/>
+  <testcase name="testFrameStrike()" classname="GameTest" time="0.0"/>
+  <testcase name="testValidateInputInvalidChars()" classname="GameTest" time="0.001"/>
+  <testcase name="testValidateInputSuccessStrike()" classname="GameTest" time="0.0"/>
+  <testcase name="allStrikes()" classname="GameTest" time="0.001"/>
+  <testcase name="testValidateInputInvalidOptionsTen()" classname="GameTest" time="0.001"/>
+  <testcase name="allStrikes10thSpare11thSpare()" classname="GameTest" time="0.001"/>
+  <testcase name="testRegularScore()" classname="GameTest" time="0.001"/>
+  <testcase name="testValidateInputSuccessMissReverseOrder()" classname="GameTest" time="0.001"/>
+  <testcase name="testValidateInputEmpty()" classname="GameTest" time="0.0"/>
+  <testcase name="testStrike()" classname="GameTest" time="0.0"/>
+  <testcase name="calculateTotalScoreFailure()" classname="GameTest" time="0.004"/>
+  <system-out><![CDATA[...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 9
+
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 4
+
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 8
+
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 0
+
+
+...start()
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 90
+
+
+...start()
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 150
+
+
+...start()
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 300
+
+
+...start()
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 275
+
+...parseGameResult()
+...parseGameResult()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,50 @@
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 9
+
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 4
+
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 8
+
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 0
+
+
+...start()
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 90
+
+
+...start()
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 150
+
+
+...start()
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 300
+
+
+...start()
+...parseGameResult()
+...calculateTotalScore()
+
+Total score is: 275
+
+...parseGameResult()
+...parseGameResult()
